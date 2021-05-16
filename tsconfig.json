@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "removeComments": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "lib": ["es2019"]
+  }
+}
